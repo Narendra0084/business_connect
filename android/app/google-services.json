@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517004608949",
+    "project_id": "biharconnect-db695",
+    "storage_bucket": "biharconnect-db695.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517004608949:android:f3c5f26293d7d5714fc5fc",
+        "android_client_info": {
+          "package_name": "com.biharbusinessconnect.bihar_business_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrEvKRwTr0vrvEBY4MjeS3AkW5x4_N3ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
